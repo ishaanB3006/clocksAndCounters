@@ -1,0 +1,73 @@
+body {
+   background-image: url("https://images-cdn.welcomesoftware.com/Zz0zZTliMjQ4MzhlNGExMWViYmJiMjFiZTI2ZWNmN2MzZA==");
+ }
+ .cardHeader{
+    text-align: center;
+ }
+ #heading{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+ }
+ .bg{
+   background-color: rgb(27, 27, 27);
+   color: white;
+
+ }
+ .heading{
+   color: white;
+   position: relative;
+   margin-left: 25%;
+ }
+ .title-header{
+color: white;
+position: relative;
+margin-left: 20%;
+
+ }
+.centre{
+   
+   text-align: center;
+}
+.btn-align{
+   position: relative;
+   margin-left: 40%;
+}
+.bttn-container{
+   display: flex;
+   justify-content: space-evenly;
+}
+
+#workspace{
+
+   margin-left: 17.5%;
+   width: 65%;
+   height: 400px;
+   margin-top: 5%;
+
+   /* position: absolute; */
+   /* Use margin: 0 auto to horizontally center the div */
+ /* Use flexbox to create a horizontal layout */
+  justify-content: space-between; 
+}
+
+.comps{
+   /* width: 18rem; */
+  display: inline-block; /* Set the display property to inline-block to align the cards side by side */
+  margin: 10px; /* Optional: Add some margin for spacing between the cards */
+ /* Optional: Align the cards' top edges to ensure proper alignment */
+
+}
+
+.item-holder{
+height: 100px;
+}
+.work-heading{
+ text-align: center; 
+}
+.op-holder{
+   display: flex;
+   justify-content: space-evenly;
+}
+
